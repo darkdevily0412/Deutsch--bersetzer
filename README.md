@@ -1,5 +1,5 @@
 
-#### Deutsch-Übersetzer ####
+# Deutsch-Übersetzer 
 **English to German Translator**
 
 Deutsch-Übersetzer is a Streamlit-based application that translates text between English and German using the T5 model from Hugging Face's Transformers library. This project provides a simple and intuitive interface similar to Google Translate.
